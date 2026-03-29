@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.propelleraero.com/hardware-integrations/dirtmate/"
+          href="https://www.propelleraero.com/dirtmate/"
           target="_blank"
           rel="noopener noreferrer"
         >
